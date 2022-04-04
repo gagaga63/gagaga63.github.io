@@ -1,0 +1,22 @@
+＠charset "utf-8";
+body{
+	background-color: cadetblue;
+}
+
+	font-size: 100%;
+	
+h1  {
+	font-weight: bold;
+	color:#f752a0 ;}
+h2{
+	font-weight: 500;
+}
+
+p{
+	font-size: 100%;
+	color: #008000;
+}
+div p{
+	background-color: aquamarine;
+	color: #7b5320;
+}
